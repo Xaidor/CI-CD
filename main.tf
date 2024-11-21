@@ -91,7 +91,7 @@ resource "aws_instance" "jenkins-instance" {
 
 /*  user_data_base64 = <<-EOF
 #!/bin/bash
-ter
+
 EOF
 */
 
